@@ -1,6 +1,6 @@
 # Profiles REST API
 
-In this project, I will use Django REST Framework and performs the following tasks:
+In this project, I use Django REST Framework and performs the following tasks:
 
 a. Use Django for setting up environment.
   - Create and manage database models.
